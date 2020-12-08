@@ -4,8 +4,12 @@ import java.util.Arrays;
 
 /** Menor diferença na matriz
  * 
- * Problema Encontre a menor diferença entre quaisquer dois elementos de um
- * array de inteiros. Solução Primeiro, podemos classificar os elementos do
+ * Problema 
+ * Encontre a menor diferença entre quaisquer dois elementos de um
+ * array de inteiros. 
+ * 
+ * Solução 
+ * Primeiro, podemos classificar os elementos do
  * array. Então, podemos iterar sobre o array e encontrar a diferença entre os
  * elementos consecutivos. O menor deles seria a menor diferença entre quaisquer
  * dois elementos da matriz. A complexidade será O (nlogn) por causa da etapa de
