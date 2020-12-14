@@ -1,6 +1,7 @@
 # Algorithms and data structure with array
 
 (EN)
+
 This repository contains my studies on algorithms and data structure with questions,
 classic problems and challenges that are part of the fundamentals of computer science.
 
@@ -8,7 +9,7 @@ In this package, the solutions are implemented in the `Java` programming languag
 
 The proposed problems are with the questions and details for solution commented at the beginning of each class.java file.
 
-#Index
+# Index
 Categorized index
 Find maximum and minimum
 Make larger number
@@ -35,6 +36,7 @@ Sum of array except current element
 Maximum arithmetic sequence
 
 (PT)
+
 Este repositório contém meus estudos sobre algoritmos e estrutura de dados com questões,
 problemas e desafios clássicos que fazem parte dos fundamentos da ciência da computação.
 
@@ -42,7 +44,7 @@ Neste pacote as soluções são implementadas na linguagem de programação `Jav
 
 Os problemas propostos estão com as perguntas e detalhes para solução comentadas no início de cada arquivo class.java.
 
-#Indice
+# Indice
 Índice categorizado
 Encontre o máximo e o mínimo
 Faça um número maior
