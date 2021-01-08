@@ -202,8 +202,16 @@ The application does not depend on any external base to function. I used tempora
 ## Testing
 For the tests, Golang's native library was used.
 
+    The tests cover only the model and utils where the business rules are found.
+    If you miss something or a greater coverage, please do not hesitate, I will be happy to receive your requests.
+
 Execute the tests with the command below:
 
+    * In the root folder run: go test -v. / ...
+
+    * Enter the models or utils folder to view the result in the terminal: go tool cover --func = cover.txt
+
+    * To view the result of the package functions in the browser (beautiful heh): go tool cover --html = cover.txt
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
